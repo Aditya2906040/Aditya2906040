@@ -1,53 +1,88 @@
-# AdityaRaman
-Exploring the world of embedded tech, networking, and clean backend logic.
-# 👋 Introduction
-Hello! I'm **Aditya Arvind Raman**, a Computer Engineering student passionate about building robust, system-level solutions. My interests lie in **IoT**, **Embedded Systems**, **Networking**, and **C++ backend development** — areas where I enjoy designing logic-heavy systems that interact with hardware or operate efficiently at scale.
+# Aditya Arvind Raman
+
+Embedded Systems and Systems Programming student focused on firmware infrastructure, networking, low-level communication systems, and distributed embedded architectures.
 
 ---
 
-## 💼 Education
-- **B.E. in Computer Engineering**, **SIES Graduate School of Technology**  
-  *CGPA:* **8.59/10** (Expected Graduation: **2026**)  
-- **12th Grade (MSBSHSE):** 73.33%  
-- **10th Grade (MSBSHSE):** 87.00%
+## Current Focus Areas
+
+- Embedded Systems
+- Firmware Engineering
+- Systems Programming
+- Linux Networking
+- Communication Protocols
+- Distributed Embedded Systems
+- Low-Level Networking
+- OTA Infrastructure
 
 ---
 
-## 🚀 Skills
-- **Programming Languages:** C, C++, Java  
-- **Platforms & Technologies:** Arduino, ESP8266, TCP/Socket Programming  
-- **Tools:** Git & GitHub, I²C devices, Serial communication, CLI-based development  
-- *(Expanding into: WebSocket servers, HTTP protocols, basic embedded networking)*
+## Selected Projects
+
+### SAFE — Smart Fire Evacuation System
+Distributed embedded evacuation guidance system using ESP32 sensor nodes, Raspberry Pi-based route computation, adaptive path planning, and cloud-integrated monitoring infrastructure.
+
+### DFMS — Distributed Firmware Management System
+Firmware lifecycle management system implementing OTA deployment workflows, A/B partition rollback, post-boot validation, and centralized rollout orchestration for ESP32/ESP8266 devices.
+
+### Ethernet Frame Parser
+Lightweight Ethernet II frame parser in C for Layer-2 packet decoding, EtherType parsing, and raw frame inspection workflows.
+
+### ARP Packet Tool
+Linux raw-socket networking tool that manually constructs Ethernet + ARP frames for MAC address discovery and low-level protocol experimentation.
+
+### RC-Based Wake Generator
+ESP32 low-power experimentation project exploring timer wake-up systems, EXT0 wake mechanisms, and RC circuit-based hardware wake generation.
 
 ---
 
-## 🛠️ Key Projects
+## Technical Areas
 
-### 🌿 Greenhouse Monitoring & Management System
-An IoT-based system using **ESP8266**, **DHT11**, **soil moisture**, and **LDR sensors** to automate a greenhouse. It controls **fan**, **bulb**, and **water motor** actuators based on environmental readings and displays real-time data on an **I²C LCD**.
+### Languages
+- C
+- C++
+- Embedded C
+- Java
 
-### 🅿️ Smart Parking Lot System
-Arduino-based solution to monitor vehicle entry/exit using **IR sensors** and operate a **servo motor-controlled barrier**. Slot status is displayed live on an **I²C LCD**, providing a simple embedded parking management experience.
+### Embedded & Firmware
+- ESP32
+- ESP8266
+- ESP-IDF
+- FreeRTOS
+- Arduino Framework
+- OTA Systems
 
-### 📂 C++ File Server *(Work in Progress)*
-A terminal-based file sharing system using **TCP sockets** that enables upload, download, and file listing between clients and a C++ server. Future versions aim to support GUI, directory transfer, and LAN-wide access.
+### Networking & Systems
+- Linux Networking
+- Raw Sockets
+- Ethernet Frames
+- ARP
+- TCP/IP Fundamentals
+- MQTT
+- HTTP
+- Layer-2 Networking
+
+### Tools
+- Git
+- GitHub
+- Linux
+- GCC
+- Wireshark
+- VS Code
 
 ---
 
-## 📈 GitHub Stats
+## Currently Exploring
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya2906040&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya2906040&layout=compact&theme=gruvbox&hide=css,html)
-
----
-
-## 📫 Contact
-- **Email:** [adityaarvind3@gmail.com](mailto:adityaarvind3@gmail.com)  
-- **LinkedIn:** [Aditya Raman](https://www.linkedin.com/in/aditya-raman-b1847330b/)  
-- **GitHub:** [Aditya2906040](https://github.com/Aditya2906040)  
+- Embedded Linux Concepts
+- Firmware Reliability Systems
+- Device Driver Concepts
+- Distributed Embedded Coordination
+- Low-Level Systems Design
 
 ---
 
-## 🤝 Let's Connect and Build!
-I love working on real-world systems that blend hardware with software. I'm open to collaboration, contributions, and discussions around **C++ systems**, **network programming**, and **IoT logic design**. Feel free to connect!
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/aditya-raman-b1847330b/
+- GitHub: https://github.com/Aditya2906040
